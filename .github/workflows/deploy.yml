@@ -27,4 +27,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: Krabbiepattie/heliosmirror:latest
+          tags: krabbiepattie/heliosmirror:latest
